@@ -1,4 +1,4 @@
-# izlo_project_2
+# SMT Solver
 Repo for 2nd project  - subject IZLO (Logic for IT)
 IZLO – Projekt 2: SMT solvery
 Úvod
